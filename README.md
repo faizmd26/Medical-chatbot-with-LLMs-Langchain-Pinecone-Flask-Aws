@@ -1,3 +1,3 @@
 # Medical-chatbot-with-LLMs-Langchain-Pinecone-Flask-Aws
 
-724554527523.dkr.ecr.eu-north-1.amazonaws.com/medical_chatbot
+Checkout Live demo http://100.54.203.250:8080/
